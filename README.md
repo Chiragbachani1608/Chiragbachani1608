@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chiragbachani1608&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragbachani1608&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Examples of work
+## Samples of my work
 <img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
 <img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
 
