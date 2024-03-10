@@ -8,9 +8,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragbachani1608&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Samples of my work
-<img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
-<img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
-<img src="https://user-images.githubusercontent.com/107796393/270031608-ba52d3e3-e682-40f0-830d-8e84358c4baf.gif" width="1024"/>
+<a href="LINK_TO_YOUR_PROJECT_PAGE">
+  <img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
+</a>
+<a href="LINK_TO_YOUR_PROJECT_PAGE">
+  <img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
+</a>
+<a href="LINK_TO_YOUR_PROJECT_PAGE">
+  <img src="https://user-images.githubusercontent.com/107796393/270031608-ba52d3e3-e682-40f0-830d-8e84358c4baf.gif" width="1024"/>
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chiragbachani1608&theme=radical&no-frame=false&no-bg=true&margin-w=4)
