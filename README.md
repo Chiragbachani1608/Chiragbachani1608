@@ -11,7 +11,7 @@
 <a href="https://github.com/Chiragbachani1608/Steel-Sentinel">
   <img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
 </a>
-<a href="[LINK_TO_YOUR_PROJECT_PAGE](https://github.com/Chiragbachani1608/Flappy_Bird)">
+<a href="https://github.com/Chiragbachani1608/Flappy_Bird">
   <img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
 </a>
 <a href="https://github.com/Chiragbachani1608/deleted_project">
