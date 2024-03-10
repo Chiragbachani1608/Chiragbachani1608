@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragbachani1608&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Samples of my work
-<a href="LINK_TO_YOUR_PROJECT_PAGE">
+<a href="https://github.com/Chiragbachani1608/Steel-Sentinel">
   <img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
 </a>
 <a href="LINK_TO_YOUR_PROJECT_PAGE">
