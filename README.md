@@ -14,7 +14,7 @@
   </div>
 
   <!-- Animated Snake -->
-  <img src="https://raw.githubusercontent.com/Chiragbachani1608/Chiragbachani1608/output/github-contribution-grid-snake.svg" width="100%"/>
+  
 </div>
 
 ## 🚀 Tech Stack
