@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=600&duration=2500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bachani;Full-Stack+Dev+%7C+Competitive+Coder+%7C+AI+Enthusiast" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=600&duration=2500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bachani;Full-Stack;Dev+%7C+Competitive;Coder+%7C+AI;Enthusiast" alt="Header" />
 
   <!-- Animated Badges -->
   <div align="center">
