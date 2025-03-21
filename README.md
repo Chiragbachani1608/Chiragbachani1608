@@ -14,9 +14,10 @@
 <a href="https://github.com/Chiragbachani1608/Flappy_Bird">
   <img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
 </a>
-<a href="https://github.com/Chiragbachani1608/deleted_project">
-  <img src="https://user-images.githubusercontent.com/107796393/270031608-ba52d3e3-e682-40f0-830d-8e84358c4baf.gif" width="1024"/>
+<a href="https://github.com/Chiragbachani1608/PalmXtract">
+  <img src="[https://user-images.githubusercontent.com/107796393/270031608-ba52d3e3-e682-40f0-830d-8e84358c4baf.gif](https://private-user-images.githubusercontent.com/107796393/403934627-f1399860-2f6e-4324-96db-fb7e6c807a76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1MzI4NjQsIm5iZiI6MTc0MjUzMjU2NCwicGF0aCI6Ii8xMDc3OTYzOTMvNDAzOTM0NjI3LWYxMzk5ODYwLTJmNmUtNDMyNC05NmRiLWZiN2U2YzgwN2E3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMVQwNDQ5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNTcwNjY0MTU0ZTBiMThlNmVjZmY4ZWRlMTQwZTFjZTAyMDFjODAwOTA4OWM0OGVlNjU4NzA5YWQwNTBmODZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3kclB177ezRZ14YZHEkiyLUEHmHLszhTSbJKUfDRPLc)" width="1024"/>
 </a>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chiragbachani1608&theme=radical&no-frame=false&no-bg=true&margin-w=4)
