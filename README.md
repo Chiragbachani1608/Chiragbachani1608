@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Chiragbachani1608&show_icons=true&theme=dark&border_color=4F8CC9&include_all_commits=true&count_private=true&line_height=30&animation=grow_out" height="165" alt="GitHub Stats"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragbachani1608&theme=dark&border=4F8CC9&ring=4F8CC9&fire=4F8CC9&animation=glow" height="165" alt="Streak"/>
+  
 </div>
 
 ## 🏆 Projects
