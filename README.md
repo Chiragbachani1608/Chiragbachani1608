@@ -1,36 +1,88 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bachani;Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Open-Source+Contributor" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Chiragbachani1608&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-bachani-XXXXXX/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chirag.bachani@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chiragbachani1608&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chiragbachani1608&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragbachani1608&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Technical Expertise
 
-## Samples of my work
-<a href="https://github.com/Chiragbachani1608/Steel-Sentinel">
-  <img src="https://user-images.githubusercontent.com/107796393/225260757-b91423b2-afad-4734-926c-ea35d85f1bc4.gif" width="1024"/>
-</a>
-<a href="https://github.com/Chiragbachani1608/Flappy_Bird">
-  <img src="https://user-images.githubusercontent.com/107796393/270018398-2e6926a7-2c02-4ac2-b319-06dde10f2706.gif" width="1024"/>
-</a>
-<a href="https://github.com/Chiragbachani1608/PalmXtract">
-  <img src="[https://user-images.githubusercontent.com/107796393/270031608-ba52d3e3-e682-40f0-830d-8e84358c4baf.gif](https://private-user-images.githubusercontent.com/107796393/403934627-f1399860-2f6e-4324-96db-fb7e6c807a76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1MzI4NjQsIm5iZiI6MTc0MjUzMjU2NCwicGF0aCI6Ii8xMDc3OTYzOTMvNDAzOTM0NjI3LWYxMzk5ODYwLTJmNmUtNDMyNC05NmRiLWZiN2U2YzgwN2E3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMVQwNDQ5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNTcwNjY0MTU0ZTBiMThlNmVjZmY4ZWRlMTQwZTFjZTAyMDFjODAwOTA4OWM0OGVlNjU4NzA5YWQwNTBmODZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3kclB177ezRZ14YZHEkiyLUEHmHLszhTSbJKUfDRPLc)" width="1024"/>
-</a>
+### 💻 Languages & Frameworks
+**Frontend Development**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Backend Development**  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chiragbachani1608&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Mobile Development**  
+![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chiragbachani1608&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-### 😂 Random Dev Meme Time!
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 🛠️ Tools & Technologies
+**Databases**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**DevOps**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Chiragbachani1608&icon=0&color=0)](https://visitcount.itsvg.in)
+**Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiragbachani1608&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragbachani1608&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragbachani1608&theme=nightowl&hide_border=true" />
+</div>
+
+## 🏆 Achievements
+![LeetCode Stats](https://leetcard.jacoblin.cool/Chiragbachani1608?theme=dark&font=ABeeZee)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Chiragbachani1608&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+## 🌟 Featured Projects
+
+### Steel Sentinel - Advanced Security System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chiragbachani1608&repo=Steel-Sentinel&theme=nightowl)](https://github.com/Chiragbachani1608/Steel-Sentinel)
+**Tech Stack:** C++ | OpenCV | IoT | Machine Learning  
+**Features:** Real-time threat detection • Facial recognition • Cross-platform compatibility
+
+### PalmXtract - Biometric Authentication
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chiragbachani1608&repo=PalmXtract&theme=nightowl)](https://github.com/Chiragbachani1608/PalmXtract)
+**Tech Stack:** Python | TensorFlow | Computer Vision  
+**Innovation:** 98.7% accuracy • Low-latency processing • Mobile-optimized
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Optimizing Neural Networks for Mobile Devices](https://yourblog.com/post1)
+- [Building Cross-Platform Apps with .NET MAUI](https://yourblog.com/post2)
+- [IoT Security Best Practices in 2024](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+## 💡 Problem Solving
+<div align="center">
+  <a href="https://leetcode.com/Chiragbachani1608/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Chiragbachani1608">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</div>
+
+## 🤝 Collaboration Style
+```text
+🌱 I’m currently learning:      Rust | Quantum Computing
+👯 I’m looking to collaborate:  Open-source AI projects
+💬 Ask me about:                System Design | ML Optimization
+⚡ Fun fact:                     Avid Chess Player ♟️ (ELO 1600)
