@@ -10,9 +10,7 @@
     <a href="https://github.com/Chiragbachani1608?tab=repositories">
       <img src="https://img.shields.io/badge/Projects-25+-success?style=for-the-badge&logo=github&animation=glow" alt="Projects"/>
     </a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Chiragbachani1608&label=Profile%20Views&color=12&icon=0&pretty=true&animation=twinkle" alt="Visitors"/>
-    </a>
+    
   </div>
 
   <!-- Animated Snake -->
