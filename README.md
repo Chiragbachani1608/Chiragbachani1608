@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am an **early-career BigQuery Developer / Analytics Engineer** with strong **hands-on, project-driven experience** in building analytics pipelines and applied AI systems.
+I have strong **hands-on, project-driven experience** in building analytics pipelines and applied AI systems.
 
 I specialize in:
 - Writing **optimized BigQuery SQL**
