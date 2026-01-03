@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&weight=600&duration=2600&pause=900&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Chirag+Bachani;BigQuery+Developer+%7C+Analytics+Engineer;Applied+AI+%26+FinTech+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&weight=600&duration=2500&pause=900&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bachani;BigQuery+Developer+%7C+Analytics+Engineer;Applied+AI+%26+FinTech+Projects"/>
 
 <br/>
 
