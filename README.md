@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&weight=600&duration=2500&pause=900&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bachani;BigQuery+Developer+%7C+Analytics+Engineer;Applied+AI+%26+FinTech+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&weight=600&duration=2600&pause=900&color=4F8CC9&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Chirag+Bachani;BigQuery+Developer+%7C+Analytics+Engineer;Applied+AI+%26+FinTech+Systems" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Mumbai-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialization-BigQuery%20%7C%20Analytics%20%7C%20AI-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Analytics%20Roles-orange?style=for-the-badge"/>
 
 </div>
 
@@ -8,113 +14,90 @@
 
 ## 👋 About Me
 
-Early-career **BigQuery Developer / Analytics Engineer** with strong **project-based experience**.
+I am an **early-career BigQuery Developer / Analytics Engineer** with strong **hands-on, project-driven experience** in building analytics pipelines and applied AI systems.
 
-- BigQuery SQL & analytics workflows  
-- Query optimization & cost awareness  
-- Analytics dashboards & reporting  
-- Applied AI for FinTech data systems  
+I specialize in:
+- Writing **optimized BigQuery SQL**
+- Designing **analytics-ready schemas**
+- Building **end-to-end data pipelines**
+- Applying **AI systems** to financial and data-heavy use cases
 
-📍 Mumbai, India
+📍 Mumbai, India  
 
 ---
 
-
-
-## 🚀 Flagship Projects
+## 🚀 Flagship Projects (Interview-Relevant)
 
 ### 📊 BigQuery Analytics Pipeline for Financial Data
-- End-to-end analytics pipeline using Google BigQuery
-- Optimized SQL for large-scale financial datasets
-- Schema design, partitioning, and BI-ready outputs
+**End-to-end analytics pipeline designed for large-scale financial datasets**
 
-**Tech:** BigQuery, SQL, GCP, Python  
-🔗 https://github.com/Chiragbachani1608/BigQuery-Analytics-Pipeline-for-Financial-Data
+- Built a complete analytics workflow using **Google BigQuery**
+- Designed schemas with **partitioning & aggregation strategies**
+- Wrote **cost-efficient and optimized SQL queries**
+- Python-based ingestion and transformation pipelines
+- Output structured for **BI dashboards & reporting**
+
+**Tech:** BigQuery · SQL · GCP · Python  
+🔗 https://github.com/Chiragbachani1608/BigQuery-Analytics-Pipeline-for-Financial-Data  
 
 ---
 
 ### 🤖 AI FinTech RAG Advisor
-- Retrieval-Augmented Generation system for financial insights
-- Document ingestion, vector search, and response generation
-- Modular, API-key-free Python architecture
+**Retrieval-Augmented Generation system for financial insights**
 
-**Tech:** Python, RAG, NLP, Vector Search  
-🔗 https://github.com/Chiragbachani1608/ai-fintech-rag-advisor
+- Designed a **RAG-based architecture** for finance-related queries
+- Implemented document ingestion, chunking, and vector search
+- Modular Python codebase with clear separation of concerns
+- Fully **API-key-free**, local-first implementation
 
----
-
-### ✋ PalmXtract – AI-Based Biometric Feature Extraction
-- Real-time palm feature detection using MediaPipe
-- Advanced image processing for feature enhancement
-- Designed for biometric and gesture-recognition use cases
-
-**Tech:** Python, OpenCV, MediaPipe  
-🔗 https://github.com/Chiragbachani1608/PalmXtract
+**Tech:** Python · RAG · NLP · Vector Search  
+🔗 https://github.com/Chiragbachani1608/ai-fintech-rag-advisor  
 
 ---
 
-### 🎮 Steel Sentinel – Ray-Casting Shooting Game
-- Python-based shooting game using ray-casting techniques
-- Real-time rendering loop and collision detection
-- Demonstrates geometry, math, and systems thinking
-
-**Tech:** Python, Ray Casting, Game Loops  
-🔗 https://github.com/Chiragbachani1608/Steel-Sentinel
-
-
-## 🧠 Applied AI & Computer Vision Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Steel Sentinel – Intelligent Surveillance System
-- Real-time computer vision pipeline for automated monitoring  
-- Motion detection and visual alerting using OpenCV  
-- Designed with low-latency processing in mind  
-
-**Tech:** Python, OpenCV, Computer Vision  
-
-🔗 https://github.com/Chiragbachani1608/Steel-Sentinel
-
-</td>
-
-<td width="50%">
+## 🧠 Applied AI & Computer Vision
 
 ### ✋ PalmXtract – AI-Based Biometric Feature Extraction
-- Real-time palm feature detection using MediaPipe  
-- Advanced image processing for feature enhancement  
-- Designed for biometric and gesture-recognition use cases  
+- Real-time palm feature detection using **MediaPipe**
+- Image enhancement via adaptive thresholding & edge detection
+- Designed for biometric and gesture-recognition applications
 
-**Tech:** Python, OpenCV, MediaPipe, Machine Learning  
+**Tech:** Python · OpenCV · MediaPipe  
+🔗 https://github.com/Chiragbachani1608/PalmXtract  
 
-🔗 https://github.com/Chiragbachani1608/PalmXtract
+---
 
-</td>
-</tr>
-</table>
+## 🎮 Systems & Logic Project
+
+### Steel Sentinel – Ray-Casting Shooting Game
+- Python-based shooting game using **ray-casting techniques**
+- Implemented real-time rendering loop and collision logic
+- Demonstrates **geometry, math, and system-level thinking**
+
+**Tech:** Python · Ray Casting · Game Loops  
+🔗 https://github.com/Chiragbachani1608/Steel-Sentinel  
 
 ---
 
 ## ⚙️ Core Tech Stack
 
 **Data & Analytics**
-- Google BigQuery
-- SQL (joins, aggregations, optimization)
-- Data modeling
+- Google BigQuery  
+- SQL (joins, aggregations, optimization)  
+- Data modeling & analytics workflows  
 
 **Visualization**
-- Looker / Looker Studio
+- Looker / Looker Studio  
 
 **Programming**
-- Python (pandas, analytics pipelines)
+- Python (pipelines, data processing, system design)  
 
 ---
 
 ## 📬 Contact
 
-📧 chiragcb51@gmail.com  
-📍 Mumbai, India
+📧 **chiragcb51@gmail.com**  
+📍 Mumbai, India  
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
