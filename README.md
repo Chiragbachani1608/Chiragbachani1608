@@ -21,33 +21,35 @@ Early-career **BigQuery Developer / Analytics Engineer** with strong **project-b
 
 ## 🚀 Flagship Projects (Always Visible)
 
+---
+
+## 🧠 Applied AI & Computer Vision Projects
+
 <table>
 <tr>
 <td width="50%">
 
-### 📊 BigQuery Analytics Pipeline for Financial Data
-**BigQuery · SQL · Python · Looker**
+### 🔐 Steel Sentinel – Intelligent Surveillance System
+- Real-time computer vision pipeline for automated monitoring  
+- Motion detection and visual alerting using OpenCV  
+- Designed with low-latency processing in mind  
 
-- End-to-end analytics pipeline  
-- Optimized SQL for analytical workloads  
-- Reporting-ready datasets  
+**Tech:** Python, OpenCV, Computer Vision  
 
-🔗 Repo:  
-https://github.com/Chiragbachani1608/BigQuery-Analytics-Pipeline-for-Financial-Data
+🔗 https://github.com/Chiragbachani1608/Steel-Sentinel
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI FinTech RAG Advisor
-**Python · FAISS · Analytics Retrieval**
+### ✋ PalmXtract – AI-Based Biometric Feature Extraction
+- Real-time palm feature detection using MediaPipe  
+- Advanced image processing for feature enhancement  
+- Designed for biometric and gesture-recognition use cases  
 
-- Local RAG-based analytics system  
-- Structured ingestion of financial data  
-- Explainable, grounded outputs  
+**Tech:** Python, OpenCV, MediaPipe, Machine Learning  
 
-🔗 Repo:  
-https://github.com/Chiragbachani1608/ai-fintech-rag-advisor
+🔗 https://github.com/Chiragbachani1608/PalmXtract
 
 </td>
 </tr>
